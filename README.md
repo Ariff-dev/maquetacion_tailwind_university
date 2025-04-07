@@ -28,7 +28,7 @@ También incluye dos gráficas:
 
 ## Captura de pantalla
 
-![Dashboard Preview](./image.png)
+![Dashboard Preview](./preview.png)
 
 ---
 Ardev
